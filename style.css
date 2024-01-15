@@ -47,7 +47,9 @@ nav a{
     display: flex;
     padding: 30px 100px;
 }
-
+.main-camera{
+    background-image: url(images/Circle\ design.svg);
+}
 
 .sponser-img {
     display: flex;
